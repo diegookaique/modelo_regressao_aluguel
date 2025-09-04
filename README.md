@@ -30,7 +30,7 @@ Este gráfico apresenta correlação das variaveis Indepententes com a variavel 
 <img width="570" height="413" alt="linha de regressão" src="https://github.com/user-attachments/assets/f7a3690b-8add-412b-b405-a33a02fe87a1" />
 
 O que este gráfico nos mostra?
-Mostra a linha ajustada pelo modelo de regressão linear sobre os dados, evidenciando o quão bem o modelo está representando a relação entre as variáveis.
+Mostra a linha ajustada pelo modelo de regressão linear sobre os dados, evidenciando 50% de precisão do modelo criado.
 
 
 
